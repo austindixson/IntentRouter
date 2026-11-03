@@ -5,7 +5,7 @@
   "version": "1.8.0",
   "displayName": "IntentRouter | OpenClaw Skill",
   "description": "Intelligent LLM routing for OpenClaw. Classifies tasks by intent and routes to the optimal model tier (code, creative, research, reasoning, vision) with prompt-injection protection.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "tags": ["routing", "llm", "intent-classification", "subagent", "orchestration", "openclaw"],
   "main": "scripts/router.py",
   "platform": "openclaw",
