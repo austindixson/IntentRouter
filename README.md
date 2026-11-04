@@ -183,11 +183,11 @@ IntentRouter validates all task strings before routing:
 ## Related skills
 
 - **[gateway-guard](https://clawhub.ai/skills/gateway-guard)** -- Gateway auth management (use separately if needed)
-- **[FACEPALM](https://github.com/RuneweaverStudios/FACEPALM)** -- Intelligent troubleshooting (use separately if needed)
+- **[FACEPALM](https://github.com/austindixson/FACEPALM)** -- Intelligent troubleshooting (use separately if needed)
 - **[what-just-happened](https://clawhub.ai/skills/what-just-happened)** -- Summarizes gateway restarts
 
 ---
 
 ## License / author
 
-Austin / RuneweaverStudios. Part of the OpenClaw skills ecosystem.
+Austin / austindixson. Part of the OpenClaw skills ecosystem.
